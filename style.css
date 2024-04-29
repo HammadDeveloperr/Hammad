@@ -1,0 +1,113 @@
+*{
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    background-color: aqua;
+ 
+}
+header{
+    color: white;
+    background-color: #4e79ad;
+     width: 100%;
+    height: 120px;
+    
+
+}
+.btn{
+    background-color:#34649e ;    color: white;
+    border: 1px solid #34649e ;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+button{
+    cursor: pointer;
+}
+button:hover{
+    background-color: #4e79ad ;
+}
+.face{
+    position: absolute;
+}
+.pass{
+    cursor: pointer;
+    background-color: #4e79ad;
+    color: #bad9d3;
+    border: 1px solid  #4e79ad;
+    font-weight: 10px;
+    margin-top: 10px;
+   margin-left: 20px;
+    /* float: right; */
+}
+.pass:hover{
+    background-color: #34649e;
+}
+.navbar{
+    
+    float: right;
+    margin-left: 10px;
+}
+.navbar2{
+    float: right;
+}
+.navbar3{
+    margin-bottom: ;
+}
+.border{
+    border-radius: 4px;
+}
+.rightside{
+    float: right;
+    margin-right: 40px;
+}
+
+   /* inputs */
+#firstlast{
+    height: 40px;
+    margin-top: 10px;
+}
+.lastfirst{
+    width: 383px;
+    
+
+}
+.birth{
+    margin-top:10px;
+    
+}
+.day{
+    /* margin-bottom: 10px; */
+    position: absolute;
+}
+.IFO{
+    /* margin-bottom: 100px; */
+    margin-left: 150px;
+}
+.signup{
+    height: 40px;
+    width: 200px;
+    border-radius: 5px;
+    color: white;
+    background-color:rgb(161, 161, 51);
+    border: 1px solid black;
+    
+}
+
+
+.li1{
+    list-style-image: url(./icons8-news-feed-16.png);
+}
+
+.li2{
+    list-style-image: url(./icons8-search-more-16.png);
+}
+.li3{
+    list-style-image: url(./icons8-timeline-16.png);
+}
+.leftside h2{
+    margin-left: 70px;
+}
+.icons ul li{
+     margin: 60px;
+}
